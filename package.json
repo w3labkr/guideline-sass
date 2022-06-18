@@ -22,9 +22,6 @@
     "homepage": "https://github.com/w3labkr/guideline-sass#readme",
     "devDependencies": {
         "browserslist": "^4.20.3",
-        "eslint": "^8.14.0",
-        "eslint-config-prettier": "^8.5.0",
-        "eslint-plugin-prettier": "^4.0.0",
         "js-beautify": "^1.14.3",
         "prettier": "^2.6.2",
         "stylelint": "^14.8.2",

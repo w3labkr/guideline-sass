@@ -13,8 +13,6 @@
         "esbenp.prettier-vscode",
         "mrmlnc.vscode-autoprefixer",
         "stylelint.vscode-stylelint",
-        "dbaeumer.vscode-eslint",
-        "davidanson.vscode-markdownlint",
         "eg2.vscode-npm-script",
         "christian-kohler.npm-intellisense",
         "sleistner.vscode-fileutils",
