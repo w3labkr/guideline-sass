@@ -16,10 +16,13 @@
 @import 'layout/sidebar';
 
 @import 'components/buttons';
-@import 'components/carousel';
-@import 'components/slider';
 
 @import 'pages/home';
+
+@import 'templates/content-sidebar';
+@import 'templates/content';
+@import 'templates/sidebar-content';
+@import 'templates/sidebar-sidebar-content';
 
 @import 'themes/theme';
 @import 'themes/admin';
